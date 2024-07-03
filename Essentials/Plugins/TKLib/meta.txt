@@ -1,0 +1,5 @@
+Name       = TKLib
+Version    = 0.1.0
+Essentials = 21.1
+Website    = github.com/MickTK/tklib-essentials
+Credits    = MickTK
